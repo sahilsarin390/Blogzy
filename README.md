@@ -1,3 +1,7 @@
+## Blogzy
+
+#### A single platform for all your daily dose of blogs
+
 [![Visits Badge](https://badges.pufler.dev/visits/sahilsarin390/Blogzy)](https://badges.pufler.dev)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
