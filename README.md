@@ -7,7 +7,9 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 [![Visits Badge](https://badges.pufler.dev/visits/sahilsarin390/Blogzy)](https://badges.pufler.dev)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
