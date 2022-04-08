@@ -1,0 +1,125 @@
+.home__page {
+  height: 87vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.login__message {
+  display: flex;
+  flex-direction: column;
+}
+
+img {
+  height: 100px;
+  width: 100px;
+  align-items: center;
+  margin: auto;
+}
+
+.login__message > h1 {
+  font-size: 100px;
+  line-height: 1em;
+  margin: 10px auto;
+  margin-top: 0;
+  font-weight: 900;
+  letter-spacing: -4px;
+  color: rgb(17, 17, 17);
+  text-decoration: underline;
+}
+
+.login__message > p {
+  padding: 25px 0;
+  line-height: 1.5em;
+  width: 100%;
+  margin: auto;
+  font-size: 16px;
+}
+
+.login__button {
+  width: 300px;
+  margin: 15px auto 0px auto;
+  /* padding: 15px 0; */
+  border: 2px;
+  border-radius: 5px;
+  border-color: black;
+  /* cursor: pointer; */
+}
+
+
+.typewriter h1 {
+  width: 350px;
+  overflow: hidden;
+  /* Ensures the content is not revealed until the animation */
+  border-right: .15em solid orange;
+  /* The typwriter cursor */
+  white-space: nowrap;
+  /* Keeps the content on a single line */
+  margin: 0 auto;
+  /* Gives that scrolling effect as the typing happens */
+  letter-spacing: .05em;
+  /* Adjust as needed */
+  animation:
+    typing 4.5s steps(40, end),
+    blink-caret .8s step-end infinite;
+    margin-top: 15px;
+    
+}
+
+/* The typing effect */
+@keyframes typing {
+  from {
+    width: 0
+  }
+
+  to {
+    width: 350px
+  }
+}
+
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+
+  from,
+  to {
+    border-color: transparent
+  }
+
+  20% {
+    border-color: orange;
+  }
+}
+
+.quo{
+  font-size: 18px;
+  align-items:center;
+  padding-top:20px;
+  width: 600px;
+}
+
+.author{
+  align-items: right;
+  justify-content: right;
+  font-size:15px;
+  margin-left: 440px;
+  padding: 10px;
+}
+
+.qcard{
+  margin-top: 20px;
+  align-items:center;
+  border-color: black;
+  border-width: 2px;
+  height: 80px;
+  width:600px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
+  border-radius: 25px;
+  transition: 0.3s;
+}
+
+.qcard:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.8);
+}
