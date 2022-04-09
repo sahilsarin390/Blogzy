@@ -10,10 +10,11 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 [![Visits Badge](https://badges.pufler.dev/visits/sahilsarin390/Blogzy)](https://badges.pufler.dev)
 
-
+API Used for Articles - https://gnews.io/
+<hr>
 ### Home Page-
 ![image](https://raw.githubusercontent.com/sahilsarin390/Blogzy/master/public/home.png)
-
+<hr>
 ### Main Page-
 ![image](https://raw.githubusercontent.com/sahilsarin390/Blogzy/master/public/blog.png)
 
