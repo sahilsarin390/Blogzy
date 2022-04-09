@@ -5,7 +5,7 @@ const userSlice = createSlice({
   initialState: {
     isSignedIn: false,
     userData: null,
-    searchInput: "tech",
+    searchInput: "Latest",
     blogData: null,
   },
   reducers: {

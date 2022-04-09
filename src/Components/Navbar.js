@@ -13,7 +13,7 @@ import {
 import "../styling/navbar.css";
 
 const Navbar = () => {
-  const [inputValue, setInputValue] = useState("tech");
+  const [inputValue, setInputValue] = useState("Latest");
   const isSignedIn = useSelector(selectSignedIn);
   const userData = useSelector(selectUserData);
 
@@ -62,7 +62,7 @@ const Navbar = () => {
                 disabled={renderProps.disabled}
                 className="logout__button"
               >
-                Logout 😦
+                Logout
               </button>
             )}
             onLogoutSuccess={logout}
