@@ -2,6 +2,8 @@
 
 #### A single platform for all your daily dose of blogs
 
+<hr>
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -11,10 +13,14 @@
 [![Visits Badge](https://badges.pufler.dev/visits/sahilsarin390/Blogzy)](https://badges.pufler.dev)
 
 API Used for Articles - https://gnews.io/
+
 <hr>
+
 ### Home Page-
 ![image](https://raw.githubusercontent.com/sahilsarin390/Blogzy/master/public/home.png)
+
 <hr>
+
 ### Main Page-
 ![image](https://raw.githubusercontent.com/sahilsarin390/Blogzy/master/public/blog.png)
 
