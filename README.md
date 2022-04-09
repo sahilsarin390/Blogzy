@@ -11,6 +11,13 @@
 [![Visits Badge](https://badges.pufler.dev/visits/sahilsarin390/Blogzy)](https://badges.pufler.dev)
 
 
+### Home Page-
+![image](https://raw.githubusercontent.com/sahilsarin390/Blogzy/master/public/home.png)
+
+### Main Page-
+![image](https://raw.githubusercontent.com/sahilsarin390/Blogzy/master/public/blog.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
