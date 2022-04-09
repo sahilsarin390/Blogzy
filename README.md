@@ -33,6 +33,7 @@ API Used for Articles - https://gnews.io/
 🔹Add pagination.
 🔹Feature to create your own blogs.
 
+<hr>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
