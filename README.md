@@ -24,6 +24,15 @@ API Used for Articles - https://gnews.io/
 ### Main Page-
 ![image](https://raw.githubusercontent.com/sahilsarin390/Blogzy/master/public/blog.png)
 
+<hr>
+
+### Upcoming Targets:
+🔹Improve UI Design.
+🔹Improve responsiveness.
+🔹Add filter option.
+🔹Add pagination.
+🔹Feature to create your own blogs.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
