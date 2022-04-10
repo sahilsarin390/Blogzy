@@ -47,7 +47,7 @@ const Blogs = () => {
 
         {blogs?.totalArticles === 0 && (
           <h1 className="no__blogs">
-            No blogs available 😞. Try searching for something else..
+            No Blogs available. Try searching for something else.
           </h1>
         )}
       </div>
