@@ -33,14 +33,16 @@ const Blogs = () => {
       <div className="blogs">
         {blogs?.articles?.map((blog) => (
           <a className="blog" target="_blank" href={blog.url}>
-            <img src={blog.image} alt="Thumbnail"/>
             <div>
-              <h3 className="sourceName">
-                <span>{blog.source.name}</span>
-                <p>{blog.publishedAt}</p>
-              </h3>
-              <h1>{blog.title}</h1>
-              <p>{blog.description}</p>
+            <img className="immg_c" src={blog.image} alt="Thumbnail"/>
+              <div className="content">
+                <h3 className="sourceName">
+                  <span>{blog.source.name}</span>
+                  <p>{blog.publishedAt}</p>
+                </h3>
+                <h1>{blog.title}</h1>
+                <p>{blog.description}</p>
+              </div>
             </div>
           </a>
         ))}
