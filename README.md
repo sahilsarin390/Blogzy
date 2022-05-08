@@ -2,6 +2,26 @@
 
 #### A single platform for all your daily dose of blogs
 
+#### Problem Statement:
+
+These days people are very excited to know what’s going on in the present world and what is the latest trending news. Every person spends most of their day spending time on social media, browsing for the latest news etc. We are trying to make an effort to simplify the problem of browsing the news from various sources like the internet, newspaper, TV channel. We are planning to build an application using reactjs which is an open source library, in which the user can view different journals of blogs about sports, crimes, Business pages, International trending topics etc.
+
+#### Uniqueness in the Our Project :
+
+We implemented the normal login page for the user to access the blogs in the application as an initial update on the project. After brainstorming a few things we proposed a new authentication to the user, which provides an user friendly interface for the user to login to our application. We could successfully implement it with the help of google services, We extracted the source code from the google resources and Implemented the authentication of the user.
+
+To obtain the latest and accurate information about the news and blogs we took the help of Gnews API, we could successfully project the news feeds extracted from the Gnews on the front-end of the page by integrating the API with the react Application which provides the user an easy to search for the news feeds all round the world.
+
+As a latest update we even included the database which will track which blogs are accessed by the users, which type of blogs are most viewed and we even created a schema to track the user details such as google ID, mail Id, user login details etc. It helps to identify which blogs are trending all over the world and we could even implement a recommendation system which recommends the user based on his interests and also based on the trending news feeds in the internet as an upcoming update in the future.
+
+We preferred Reactjs over the other technologies because reactjs is an open source library, which helps us to build single page applications which is more user friendly now a days, and in react the application working is very efficient because in this application which were built using react will not load the whole applications whenever it’s an event is triggered with the efficient feature provided by the react called react DOM, which helps the web application to run efficiently.
+
+We made the front end of the application using reactjs, and the basic construct of the front end design of the application is achieved with the help of HTML and CSS and the styling of the react is also achieved with the help of CSS and other frameworks such as Material UI to beautify the application.
+
+To make the application to display the latest news on the front-end, we used gnews API which is already a working source and we could integrate the Gnew API to the react application using the tokenization method and axios concepts in react are used to retrieve the data that is fetched from the gnews API and we projected it on the front end of the application.
+
+To track each and every activity of the user activity and the user login, we introduced a database i.e mongoDB from which we created two schemas which are user and the card, card stores the information about the blogs details and and the contents in the blog and the object. The user schema is created to track the user activity and the user details.
+
 <hr>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -10,6 +30,7 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 [![Visits Badge](https://badges.pufler.dev/visits/sahilsarin390/Blogzy)](https://badges.pufler.dev)
 
 API Used for Articles - https://gnews.io/
@@ -17,12 +38,15 @@ API Used for Articles - https://gnews.io/
 <hr>
 
 ### Home Page-
-![image](https://raw.githubusercontent.com/sahilsarin390/Blogzy/master/public/home.png)
+![image](https://raw.githubusercontent.com/sahilsarin390/Blogzy/master/client/public/home.png)
 
 <hr>
 
 ### Main Page-
-![image](https://raw.githubusercontent.com/sahilsarin390/Blogzy/master/public/blog.png)
+#### Light Mode:
+![image](https://raw.githubusercontent.com/sahilsarin390/Blogzy/master/client/public/blog.png)
+#### Dark Mode:
+![image](https://raw.githubusercontent.com/sahilsarin390/Blogzy/master/client/public/dark.png)
 
 <hr>
 
